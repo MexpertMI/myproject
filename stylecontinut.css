@@ -1,0 +1,67 @@
+
+
+
+
+body {
+	background-color: #BEBEBE
+}
+.title {
+	font size: 45px;
+	color: #228B22;
+}
+h1 {
+	font-family: tahoma;
+}
+
+
+.ins1 {
+		font-size: 18px;
+	color: #008000;
+font-family: tahoma;
+text-indent:11px;
+	font-weight: 900;
+}
+.ins2 {
+		font-size: 18px;
+	color: #FF4500;
+	font-family: tahoma;
+	text-indent:11px;
+	font-weight: 900;
+}
+.ins3 {
+		font-size:18px;
+	color: brown;
+		font-family: tahoma;
+		text-indent:11px;
+		font-weight: 900;
+	
+
+
+}
+
+
+.p1 {
+
+	text-indent:4px;
+	text-align: center;
+font-family: Comic Sans MS, Comic Sans, cursive;
+	font-weight:10px:;
+}
+
+.p2 {
+
+	text-indent:20px;
+	text-align: center;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.p3 {
+	
+	
+	text-align: center;
+	text-indent:17px;
+	 font-family: Comic Sans MS, Comic Sans, cursive;
+	font-weight:4px;
+	font-style: normal;
+	 margin-top: 0.5em; 
+    margin-bottom: 1em;
+}
